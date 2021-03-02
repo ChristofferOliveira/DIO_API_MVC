@@ -2,7 +2,7 @@
 ## Plataforma
 DIO
 
-## Autore
+## Autor
 - Christoffer de Paula Oliveira
 
 ## Objetivo
